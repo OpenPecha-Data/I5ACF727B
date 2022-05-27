@@ -1,0 +1,9 @@
+id: 0edb8733709341e7aa7f9bf963f4fa41
+annotation_type: index
+revision: '00001'
+annotations:
+  00acd4890ed74346b707085eb082dd6a:
+    base: fB5DA.txt
+    span:
+      start: 0
+      end: 14914
